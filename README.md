@@ -1,7 +1,17 @@
-# Tauri + React + Typescript
+# Hyperliquid Orderbook Visualizer
+![Hyperliquid Orderbook Visualizer](./demo.png)
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+## Motivation
+We need a tool (similar to Bookmap) to visualize the [Hyperliquid](https://app.hyperliquid.xyz/) order book and enhance trading advantages.
 
-## Recommended IDE Setup
+## Prerequisites
+- Rust
+- Node.js
+- pnpm
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Usage
+
+```
+pnpm install
+pnpm run dev
+```
